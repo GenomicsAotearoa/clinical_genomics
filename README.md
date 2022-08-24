@@ -19,7 +19,3 @@ Our current general workflow:
 - Load vcf file and accessory files into [scout](https://clinical-genomics.github.io/scout/). This software serves as a user interface for people from the genetics laboratory to curate variants and diagnose rare genetic diseases
 - Utilise a private github page to support the wellington genetics laboratory folk. This has some general information they might find useful for using scout, where they can log issues they encounter when using scout, ask questions about how the data has been analysed or hear announcements on changes I've made to the scout instance they're using (for example if I update the version of scout or load some more data)
 - Store data on internal servers, the data can't go on the cloud, since currently this would mean the data goes overseas which violates data sovereignty of this data
-
-### Brain dump notes
-
-- [My notes on using scout as admin](https://github.com/leahkemp/scout_admin_notes)
